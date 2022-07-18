@@ -1,3 +1,10 @@
+###Проект можно посмотреть по [ссылке](https://haneulsky.github.io/search-github-users/)
+
+Проект сделан для изучения нового для меня стека. Через поисковую строку на главной странице проекта осуществляется запрос к Github API, по клику на имя пользователя в дропдауне выводится список репозиториев пользователя. Репозитории можно добавлять в избранное или удалять из избранного.
+
+###***Стек: TypeScript, Redux Toolkit, RTKQuery, Tailwind***
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
